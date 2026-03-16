@@ -1,1 +1,1 @@
-
+All necessary files have been included in this directory, with most supporting materials hosted in the subdirectories of BOM, Components, Gerber, and Test Code. The project report is found in Documentation_Cdoc.pdf, with an older version/rough draft in doc_c.
